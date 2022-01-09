@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrbartoe
-- 👀 I’m interested in learning full-stack development
+- 👀 I’m interested in learning full-stack javascript development
 - 🌱 I’m currently working along with #100devs bootcamp
 
 <!---
